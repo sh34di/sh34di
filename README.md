@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3>👋 Oii, Meu nome é Marcus</h3>
 
-<!--
-**marcusviniciusslima/marcusviniciusslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌱 Estou aprendendo Ruby
+* 📫 Contato: vinicius.slima09@gmail.com
 
-Here are some ideas to get you started:
+<h3>Linguagens e Ferramentas:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img align="center" alt="Marcus-Rb" height="30" width="80" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+  <img align="center" alt="Marcus-Atom" height="" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg">
+</div>
+
+<h3 align="left">Status</h3>
+
+<div align="left">
+  <a href="marcusviniciusslima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusviniciusslima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
