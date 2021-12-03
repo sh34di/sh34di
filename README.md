@@ -10,7 +10,7 @@
   <img align="center" alt="Marcus-Atom" height="" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg">
 </div>
 
-<h3 align="left">Status</h3>
+<h3 align="left">Status:</h3>
 
 <div align="left">
   <a href="marcusviniciusslima">
