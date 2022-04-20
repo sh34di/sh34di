@@ -1,4 +1,4 @@
-<h3>👋 Oii, Meu nome é Marcus</h3>
+<h3>👋 Hi, My name is Marcus</h3>
 
-* 🌱 Estou aprendendo Segurança da informação
-* 📫 Contato: shedzin.09@gmail.com
+* 🌱 I'm learning information security
+* 📫 Contact: shedzin.09@gmail.com
